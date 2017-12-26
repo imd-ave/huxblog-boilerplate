@@ -4,7 +4,7 @@ title:      "你还没来，我怎敢老去"
 subtitle:   "来自张爱玲<半生缘>"
 date:       2017-12-26 
 author:    "东东"
-header-img: "img/post-bg-js-version.jpg"
+header-img: "img/1c338cd09ca02ef152916aa236495729.jpg"
 tags:
     - 张爱玲
  
