@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "不乱于心，不困于情，不畏将来，不念过往 "
+title:      " Java学习笔记之递归"
 subtitle:   "life"
 date:       2018-1-05 
 author:    "阿东"
@@ -12,7 +12,7 @@ tags:
 
 ```
 
-### Java学习笔记之递归
+###  Java学习笔记之递归
 - - - - 
 递归方法就是一种直接或通过其他方法间接调用自己的方法。
 著名例子:斐波那契（Fibonacci)数列
