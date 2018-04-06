@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "2018不畏将来"
-subtitle:   " "
-date:       2018-3-1 
+subtitle:   "plan"
+date:       2018-03-01 
 author:    "阿东"
 header-img: "img/post-bg-js-version.jpg"
 tags:
